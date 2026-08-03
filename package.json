@@ -1,6 +1,6 @@
 {
   "name": "mcp-typescript-sdk",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A TypeScript SDK for implementing Model Context Protocol (MCP) over MQTT, supporting both browser and Node.js environments.",
   "main": "src/index.ts",
   "scripts": {
